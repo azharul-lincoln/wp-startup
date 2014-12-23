@@ -1,0 +1,6 @@
+{
+    "require": {
+        "webdevstudios/cmb2": "dev-master",
+        "redux-framework/redux-framework": "dev-master"
+    }
+}
